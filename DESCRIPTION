@@ -1,0 +1,8 @@
+Package: ccR
+Title: CodedCulture's common repository
+Version: 0.0.0.9000
+Authors@R: person("N", "Krabben", , "n@codedculture.com", role = c("aut", "cre"))
+Description: A collection of functions and utilities created for CodedCulture that make life a little easier.
+Depends: R (>= 3.1.0)
+License: GPL
+LazyData: true

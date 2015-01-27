@@ -1,0 +1,5 @@
+name: CC Report (PDF)
+description: >
+  Template for creating a report for Coded Cutlure. Based on the style of 
+  Edward R. Tufte and Richard Feynman.
+create_dir: false
